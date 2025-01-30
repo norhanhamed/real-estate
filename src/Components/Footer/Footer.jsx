@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
     return (
         <>
-            <footer className='bg-black md:flex justify-between items-center  md:px-20 py-12 text-xl text-white '>
+            <footer className='px-4 bg-black md:flex justify-between items-center  md:px-20 py-12 text-xl text-white '>
                 <div>
                     <h2 className='text-5xl font-bold '>alpha build </h2>
                     <p className='my-5'>Residential and Commercial Construction Specialists.<br /> Our company brings expertise, reliability, and quality to <br /> every construction project.</p>
